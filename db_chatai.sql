@@ -47,8 +47,6 @@ INSERT INTO `tb_users` (`id`, `name`, `email`, `password`, `role_id`, `profile_i
 (2, 'Baliku', 'bali@gmail.com', '$2y$10$jL3Ww/bGjFVZ5fn0pYEZceG3SlGRny/zrncdGycUZzYbpEeoU/PxG', 1, '', '2025-03-17 02:56:30', '2025-03-17 03:18:47'),
 (4, 'abraham', 'abrahamtambac@gmail.com', '$2y$10$W8ttSU7clvs0zBt7/5rFye4e.Z.FD2k29dQlsWBWQWFY7FTDiq2g2', 1, '67d798baa13cb-images (3).jpeg', '2025-03-17 03:18:00', '2025-03-17 03:36:26'),
 (5, 'Rafi Yoga', 'rafiyoga123@gmail.com', '$2y$10$qeDGlT/h7blrB9yLHhD9yu/HwGhjTY/48BNW1qmi6SkNOeO1Suc6y', 1, '67d79b62b2a8e-i.png', '2025-03-17 03:42:47', '2025-03-17 03:47:46'),
-(6, 'Dodi Sinaga', 'dodi@dodi.com', '$2y$10$v4TKZJP5ZF4UgTYDF3ijgeMNJp598yImUY0Rc7tm./uROYlZIsFWy', 1, NULL, '2025-05-18 23:55:08', '2025-05-18 23:55:08');
-
 --
 -- Indexes for dumped tables
 --
